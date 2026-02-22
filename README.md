@@ -2,7 +2,7 @@
 
 ## 免登录不限速
 ### 1. QQ闪传（14天自动销毁）
-#### 1.1 [https://qfile.qq.com/q/iClj9WALuw（更新于2026.2.23）](https://qfile.qq.com/q/iClj9WALuw)
+#### 1.1 [https://qfile.qq.com/q/iClj9WALuw](https://qfile.qq.com/q/iClj9WALuw)（更新于2026.2.23）
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
 ├─ [CC字幕]零售机_游戏性能大横评_2026.srt
@@ -10,7 +10,7 @@
 ├─ [视频]零售机_游戏性能大横评_2026.mp4
 ```
 ### 2. 蓝奏云（永久）
-#### 2.1 [https://lpani.lanzouq.com/b0fq76fza 密码:a8vg （更新于2026.2.23）](https://lpani.lanzouq.com/b0fq76fza  )
+#### 2.1 [https://lpani.lanzouq.com/b0fq76fza  ](https://lpani.lanzouq.com/b0fq76fza  )（密码:a8vg）（更新于2026.2.23）
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
 ├─ 封面.jpg
@@ -20,7 +20,7 @@
 
 ## 要登录但不限速
 ### 1. 123云盘（永久，下载会消耗每月额定流量）
-#### 3.1 [https://www.123865.com/s/ENisjv-hfMn3（更新于2026.2.23）](https://www.123865.com/s/ENisjv-hfMn3)
+#### 3.1 [https://www.123865.com/s/ENisjv-hfMn3 ](https://www.123865.com/s/ENisjv-hfMn3)（更新于2026.2.23）
 ```
 手机游戏性能大横评：厂商作弊太疯狂！
 ├─ [CC字幕]零售机_游戏性能大横评_2026.srt
