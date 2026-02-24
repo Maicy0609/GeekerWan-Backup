@@ -1,5 +1,5 @@
 # 【持续更新】免登陆不限速极客湾2026零售机大横评补档链接
-
+>链接失效、有下面没有提到的相关仓库或其它问题请及时[提交issue](https://github.com/CN-LPani/GeekerWan-Backup/issues/new)，本人忙，有时不一定即使补上，可以看看相关仓库
 ## 免登录不限速
 ### 1. QQ闪传（14天自动销毁）
 #### 1.1 [https://qfile.qq.com/q/iClj9WALuw](https://qfile.qq.com/q/iClj9WALuw)（更新于2026.2.23）
@@ -90,3 +90,12 @@
 ├─ [封面]零售机_游戏性能大横评_2026.jpg
 └─ [CC字幕]零售机_游戏性能大横评_2026.srt
 ```
+
+# 相关仓库
+1. [Geekerwan2026PhoneReview](https://github.com/Coriginbe/Geekerwan2026PhoneReview)
+2. [geekerwan2026](https://github.com/zacky24685/geekerwan2026)
+3. [Geekerwan2026](https://github.com/happymidi/Geekerwan2026)
+4. [Geekerwan-2026GamePerformanceTest](https://github.com/furina315/Geekerwan-2026GamePerformanceTest)
+5. [Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup)
+6. [Geekerwan_2026_Reupload_Annual-Smartphone-Comparison-Review](https://github.com/ZheFeng7110/Geekerwan_2026_Reupload_Annual-Smartphone-Comparison-Review)
+7. [BestSmartphoneForGaming](https://github.com/DiErTouShou/BestSmartphoneForGaming)
