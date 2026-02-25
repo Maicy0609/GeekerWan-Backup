@@ -1,13 +1,6 @@
 # 【持续更新】免登陆不限速极客湾2026零售机大横评补档链接
 >链接失效、有下面没有提到的相关仓库或其它问题请及时[提交issue](https://github.com/CN-LPani/GeekerWan-Backup/issues/new)，本人忙，有时不一定即使补上，可以看看相关仓库
 
-
-## 在网页中便捷下载
-> [Github Pages](https://maicy0609.github.io)
-> 
-> [大陆专属](https://scout-qcwu.upma.site)
-
-
 ## 免登录不限速
 ### 1. QQ闪传（14天自动销毁）
 #### 1.1 [https://qfile.qq.com/q/iClj9WALuw](https://qfile.qq.com/q/iClj9WALuw)（更新于2026.2.23）
@@ -58,7 +51,7 @@
 └─ [CC字幕]零售机_游戏性能大横评_2026.srt
 ```
 ### 4. Github Release
-#### 4.1 [https://github.com/CN-LPani/GeekerWan-Backup/releases/tag/2026.2.23](https://github.com/CN-LPani/GeekerWan-Backup/releases/tag/2026.2.23)（更新于2026.2.23）
+#### 4.1 [GeekerWan-Backup](https://github.com/CN-LPani/GeekerWan-Backup)（更新于2026.2.23）
 ```
 2026.2.23
 ├─ Bullet comments.mp4
@@ -68,7 +61,11 @@
 ├─ oppo.mp4
 └─ vivo.mp4
 ```
-
+#### 4.2 [Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup)（更新于2026.2.25）[^1]
+在网页中便捷下载
+> [Github Pages](https://maicy0609.github.io)
+> 
+> [大陆专属](https://scout-qcwu.upma.site)
 ## 要登录但不限速
 ### 1. 123云盘（永久，登录下载会消耗每月额定流量，不登录需要支付下载）
 #### 1.1 [https://www.123865.com/s/ENisjv-hfMn3 ](https://www.123865.com/s/ENisjv-hfMn3)（更新于2026.2.23）
@@ -101,11 +98,18 @@
 ```
 
 # 相关仓库
-1. [Geekerwan2026PhoneReview](https://github.com/Coriginbe/Geekerwan2026PhoneReview)
-2. [geekerwan2026](https://github.com/zacky24685/geekerwan2026)
-3. [Geekerwan2026](https://github.com/happymidi/Geekerwan2026)
-4. [Geekerwan-2026GamePerformanceTest](https://github.com/furina315/Geekerwan-2026GamePerformanceTest)
-5. [Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup)
-6. [Geekerwan_2026_Reupload_Annual-Smartphone-Comparison-Review](https://github.com/ZheFeng7110/Geekerwan_2026_Reupload_Annual-Smartphone-Comparison-Review)
-7. [BestSmartphoneForGaming](https://github.com/DiErTouShou/BestSmartphoneForGaming)
-8. [Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup)
+### 1.[Geekerwan2026PhoneReview](https://github.com/Coriginbe/Geekerwan2026PhoneReview)
+
+### 2. [geekerwan2026](https://github.com/zacky24685/geekerwan2026)
+
+### 3. [Geekerwan2026](https://github.com/happymidi/Geekerwan2026)
+
+### 4. [Geekerwan-2026GamePerformanceTest](https://github.com/furina315/Geekerwan-2026GamePerformanceTest)
+
+### 5. [Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup)
+
+### 6. [Geekerwan_2026_Reupload_Annual-Smartphone-Comparison-Review](https://github.com/ZheFeng7110/Geekerwan_2026_Reupload_Annual-Smartphone-Comparison-Review)
+
+### 7. [BestSmartphoneForGaming](https://github.com/DiErTouShou/BestSmartphoneForGaming)
+
+[^1]: 引用仓库[Storm_Geeker_Backup](https://github.com/Maicy0609/Storm_Geeker_Backup)
